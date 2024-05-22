@@ -1,0 +1,17 @@
+title: LCR-PDF
+author: Nicola Rennie (Adapted by Laura Hilton)
+version: 0.0.3
+contributes:
+  project:
+    project:
+      type: book
+  formats: 
+    pdf:
+      include-in-header: 
+       - "LCR-PDF.tex"
+      include-before-body:
+       - "pagestyle.tex"
+      toc: false
+      code-block-bg: highlight
+      linkcolor: light
+      urlcolor: light
