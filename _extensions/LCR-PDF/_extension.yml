@@ -12,9 +12,9 @@ contributes:
       include-before-body:
        - "pagestyle.tex"
       toc: false
-      code-block-bg: light
-      linkcolor: highlight
-      urlcolor: highlight
+      code-block-bg: highlight
+      linkcolor: light
+      urlcolor: light
     typst:
       papersize: a4
       margin:
