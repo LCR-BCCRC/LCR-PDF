@@ -1,6 +1,6 @@
 ---
-title: "Pretty PDFs with Quarto"
-format: PrettyPDF-pdf
+title: "BC Cancer Research Institute branded PDFs with Quarto"
+format: LCR_PDF-pdf
 ---
 
 ## Quarto
