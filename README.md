@@ -25,7 +25,7 @@ to the `_quarto.yml` file.
 
 ## Adjusting LaTeX Styling
 
-If you want to update the LaTeX version of this template to use a different colour or logo, open up the `_extensions/LCR_PDF/LCR-PDF.tex` file after you have installed the extension.
+If you want to update the LaTeX version of this template to use a different colour or logo, open up the `_extensions/LCR-BCCRC/LCR_PDF/LCR-PDF.tex` file after you have installed the extension.
 
 ### Logo
 
@@ -33,7 +33,7 @@ Either replace the `logo.png` file with a new file of your choosing, or change t
 
 ### Colours
 
-Lines 14-16 in `_extensions/LCR_PDF/LCR-PDF.tex` define three colours used in the template: `light`, `dark`, and `highlight`. Change the hex colours in these lines to update the colours. The `_extensions/LCR_PDF/LCR-PDF.tex` and `_extensions/LCR_PDF/_extension.yml` files indicate how these colours are used throughout the documents, as headers, highlighting, link colours, etc.
+Lines 14-16 in `_extensions/LCR-BCCRC/LCR_PDF/LCR-PDF.tex` define three colours used in the template: `light`, `dark`, and `highlight`. Change the hex colours in these lines to update the colours. The `_extensions/LCR-BCCRC/LCR_PDF/LCR-PDF.tex` and `_extensions/LCR-BCCRC/LCR_PDF/_extension.yml` files indicate how these colours are used throughout the documents, as headers, highlighting, link colours, etc.
 
 ## Blog
 
